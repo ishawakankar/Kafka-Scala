@@ -4,7 +4,7 @@
 		module="kafkastream$sources_2.11"
 		revision="0.1"
 		status="integration"
-		publication="20190312173024"
+		publication="20190318145840"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
